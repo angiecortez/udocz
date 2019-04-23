@@ -1,0 +1,16 @@
+body {
+  background: #3d4852;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: #b8c2cc;
+}
+.hola {
+  margin-top: 100px;
+}
+nav {
+  background: black;
+  width: 100%;
+}
